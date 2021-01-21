@@ -1,0 +1,58 @@
+body{
+    background-color:#7FFFD4;
+}
+h1{
+    font-family:sans-serif;
+    font-size:500%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    transform: translate(40%,0%);
+}
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:25%;
+    transform: translate(-140%,+12%);
+    border-style:solid;
+    border-color:black;
+    border-width:thick;
+}
+p{
+    display:block;
+    margin-left:40%;
+    margin-right:10%;
+    font-size:200%;
+    border-style:solid;
+    border-color:black;
+    border-width:thick;
+    transform: translate(0%,-125%);
+    background-color:white;
+
+}
+
+table, th, td {
+    border: 3px solid black;
+}
+table{
+    text-align:center;
+    font-size:300%;
+    margin:auto;
+    width:100%;
+    transform: translate(0%,-150%);
+    background-color:white;
+}
+.lost{
+    background: #F08080;
+}
+button{
+    display:block;
+    background-image: url(imagens/800px-Pornhub-logo.svg.png);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    height: 283px;
+    width: 800px;
+    border: none;
+    transform: translate(60%,0%)
+}
